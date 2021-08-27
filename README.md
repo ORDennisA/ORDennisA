@@ -1,4 +1,4 @@
-### Saludos ME llamo Dennis 👋
+### Saludos soy Dennis 👋
 
 ## Cosas que hago
 *Escritor creativo
