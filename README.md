@@ -1,13 +1,13 @@
-### Saludos 👋
+### Saludos ME llamo Dennis 👋
 
-
-
-##
+## Cosas que hago
+*Escritor creativo
+*Artista dibujante 
 
 
 ##Publiaciones
-*
-
+*Wattpad https://www.wattpad.com/user/NecroMonsterAxe
+*twitter https://twitter.com/axe_rod
 
 ## Horario de clases
 |               Lunes              |               Martes             |             Miercoles            |              Juevez              |               Viernes            |
