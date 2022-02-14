@@ -13,11 +13,16 @@
 |               Lunes              |               Martes             |             Miercoles            |              Juevez              |               Viernes            |
 |----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
 |     Taller de administracion     |     Taller de administracion     |     Taller de administracion     |     Taller de administracion     |                                  | 
+|                                  |                                  |                                  |                                  |                                  |
+|                                  |                                  |                                  |                                  |                                  |
 |             Simulacion           |             Simulacion           |             Simulacion           |             Simulacion           |             Simulacion           |
+|                                  |                                  |                                  |                                  |                                  |
 | Gestionde proyectos en softWar   | Gestionde proyectos en softWar   | Gestionde proyectos en softWar   | Gestionde proyectos en softWar   | Gestionde proyectos en softWar   |
-|      Taller de investigacion  2  |      Taller de investigacion  2  |      Taller de investigacion  2  |      Taller de investigacion  2  | Gestionde proyectos en softWar   |
+|                                  |                                  |                                  |                                  | Gestionde proyectos en softWar   |
+|      Taller de investigacion  2  |      Taller de investigacion  2  |      Taller de investigacion  2  |      Taller de investigacion  2  |                                  |
 |       Sistemas programables      |       Sistemas programables      |       Sistemas programables      |       Sistemas programables      |                                  |
-|       Taller de base de datos    |       Taller de base de datos    |       Taller de base de datos    |       Taller de base de datos    |       Taller de base de datos    |
+|                                  |                                  |                                  |                                  |                                  |
+|       Taller de base de datos    |       Taller de base de datos    |       Taller de base de datos    |       Taller de base de datos    |                                  |
 
 
 <!--
